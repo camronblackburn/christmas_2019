@@ -3,3 +3,22 @@ body {
     overflow: hidden;
     margin: 0;
 }
+
+
+.p-canvas-webgl {
+  position: fixed;
+  z-index: 1;
+  top: 0; left: 0;
+}
+
+a {
+    color: #009ECE;
+    transition: all 0.5s ease;
+    border-bottom: 2px solid transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #006666;
+    border-bottom: 2px solid #006666
+}

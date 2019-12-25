@@ -18,26 +18,6 @@ function init() {
     container = document.createElement( 'div' );
     document.body.appendChild( container );
 
-    /*
-    // setup sky gradient 
-    
-    var canvas = document.createElement( 'canvas' );
-    canvas.width = 32;
-    canvas.height = window.innerHeight;
-
-    var context = canvas.getContext( '2d' );
-
-    var gradient = context.createLinearGradient( 0, 0, 0, canvas.height );
-    gradient.addColorStop(0, "#1e4877");
-    gradient.addColorStop(0.5, "#4584b4");
-
-    context.fillStyle = gradient;
-    context.fillRect(0, 0, canvas.width, canvas.height);
-
-    container.style.background = 'url(' + canvas.toDataURL('image/png') + ')';
-    container.style.backgroundSize = '32px 100%';
-    */
-
     // setup scene
     scene = new THREE.Scene();
     //scene.background = new THREE.Color( 0xcce0ff );

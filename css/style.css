@@ -12,13 +12,13 @@ body {
 }
 
 a {
-    color: #009ECE;
+    color: #11800d;
     transition: all 0.5s ease;
     border-bottom: 2px solid transparent;
     text-decoration: none;
 }
 
 a:hover {
-    color: #006666;
-    border-bottom: 2px solid #006666
+    color: #bd0d0d;
+    border-bottom: 2px solid #bd0d0d
 }

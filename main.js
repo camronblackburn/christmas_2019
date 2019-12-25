@@ -70,6 +70,7 @@ function init() {
     merry.style.height = 100;
     //merry.style.backgroundColor = "rgba(255, 0, 0, 0.5)";
     merry.innerHTML = "MERRY CHRISTMAS!";
+    merry.style.font-size = "50px";
     merry.style.color="#064f11";
     merry.style.top = 100 + 'px';
     merry.style.left = 200 + 'px';

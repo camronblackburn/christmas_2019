@@ -1,6 +1,9 @@
 # christmas_2019
 fam gifts for 2019 christmas
 
+## sites hosted at
+https://camronblackburn.github.io/christmas_2019/
+
 ## resources
 clouds:
 https://gitlab.cba.mit.edu/classes/863.19/CBA/cbasite/blob/master/people/eyal/index.html
